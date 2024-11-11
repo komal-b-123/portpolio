@@ -1,0 +1,111 @@
+body {
+    background-image: url(image4.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Sofia", sans-serif;
+
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: magenta;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: purple;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: dashed cornsilk;
+    border-width: 200px;
+    text-decoration: dotted rgb(5, 84, 231);
+    padding: 40px;
+    background-position: center;
+    box-sizing: content-box;
+    border: double purple;
+}
+
+p {
+    background-size: 0%;
+    background-position: center;
+    text-align: center;
+    
+
+    font-family: "Sofia", sans-serif;
+    font-size: larger;
+    box-sizing: content-box;
+}
+
+h3 {
+    background: fixed;
+    background-size: auto;
+    text-align: center;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+text-align: center;
+    font-size: larger;
+    border: dotted;
+    box-sizing: content-box;
+    
+    
+    
+}
+    
+
+
+h3{
+font-family: "Sofia", sans-serif;
+text-align: left;
+}
+
+h4{
+    text-align: center;
+    font-size:xx-large;
+    border-radius: 600px;
+    box-sizing: content-box;
+    
+
+}
